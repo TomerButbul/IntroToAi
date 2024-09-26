@@ -1,0 +1,2 @@
+# IntroToAi
+IntroToAi assignments
